@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Ledger>
+  <Line>
+    <Employee>SOLO</Employee>
+    <LastDate>15/09/2025</LastDate>
+    <A50>XY99 ABC</A50>
+    <Reference>REF999</Reference>
+    <Description>Single Entry</Description>
+  </Line>
+</Ledger>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Ledger>
+  <Line>
+    <Employee>EMP001</Employee>
+    <LastDate>02/05/2025</LastDate>
+    <A50></A50>
+    <Reference>REF001</Reference>
+    <Description>No vehicle</Description>
+  </Line>
+</Ledger>

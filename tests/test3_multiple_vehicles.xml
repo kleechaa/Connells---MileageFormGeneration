@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TIMEATWORK>
+    <PROJECT_LEDGER_LINE>
+        <Employee VALUE="EMP001"/>
+        <Reference>REF001</Reference>
+        <Trans_Date>2025-03-01</Trans_Date>
+        <A50>CAR001</A50>
+        <A01>Company Car</A01>
+    </PROJECT_LEDGER_LINE>
+    <PROJECT_LEDGER_LINE>
+        <Employee VALUE="EMP001"/>
+        <Reference>REF001</Reference>
+        <Trans_Date>2025-03-02</Trans_Date>
+        <A50>CAR002</A50>
+        <A01>Rental Car</A01>
+    </PROJECT_LEDGER_LINE>
+</TIMEATWORK>

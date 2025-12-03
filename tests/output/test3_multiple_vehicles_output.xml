@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Ledger>
+  <Line>
+    <Employee>EMP001</Employee>
+    <LastDate>01/03/2025</LastDate>
+    <A50>CAR001</A50>
+    <Reference>REF001</Reference>
+    <Description>Company Car</Description>
+  </Line>
+  <Line>
+    <Employee>EMP001</Employee>
+    <LastDate>02/03/2025</LastDate>
+    <A50>CAR002</A50>
+    <Reference>REF001</Reference>
+    <Description>Rental Car</Description>
+  </Line>
+</Ledger>

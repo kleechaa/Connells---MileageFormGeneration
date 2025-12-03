@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TIMEATWORK>
+    <PROJECT_LEDGER_LINE>
+        <Employee VALUE="EMP002"/>
+        <Reference>REF002</Reference>
+        <Trans_Date>2025-08-01</Trans_Date>
+        <A50>ZZZ999</A50>
+        <A01>Last</A01>
+    </PROJECT_LEDGER_LINE>
+    <PROJECT_LEDGER_LINE>
+        <Employee VALUE="EMP001"/>
+        <Reference>REF002</Reference>
+        <Trans_Date>2025-08-01</Trans_Date>
+        <A50>AAA111</A50>
+        <A01>First</A01>
+    </PROJECT_LEDGER_LINE>
+    <PROJECT_LEDGER_LINE>
+        <Employee VALUE="EMP001"/>
+        <Reference>REF001</Reference>
+        <Trans_Date>2025-08-01</Trans_Date>
+        <A50>BBB222</A50>
+        <A01>Second</A01>
+    </PROJECT_LEDGER_LINE>
+</TIMEATWORK>
