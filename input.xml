@@ -1,0 +1,1404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XML Spy v3.5 NT (http://www.xmlspy.com) by Tomas Kripal (Ariba Team) -->
+<TIMEATWORK server="vs-sql-sandbox.database.windows.net" database="EAW_Connells">
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="101"/>
+		<Reference>0000000016</Reference>
+		<Trans_Date>2024-10-07</Trans_Date>
+		<A50/>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="101"/>
+		<Reference>0000000016</Reference>
+		<Trans_Date>2024-10-08</Trans_Date>
+		<A50/>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="101"/>
+		<Reference>0000000016</Reference>
+		<Trans_Date>2024-10-09</Trans_Date>
+		<A50/>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="101"/>
+		<Reference>0000000016</Reference>
+		<Trans_Date>2024-10-09</Trans_Date>
+		<A50/>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="101"/>
+		<Reference>0000000016</Reference>
+		<Trans_Date>2024-10-09</Trans_Date>
+		<A50/>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="101"/>
+		<Reference>0000000016</Reference>
+		<Trans_Date>2024-10-17</Trans_Date>
+		<A50/>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="101"/>
+		<Reference>0000000004</Reference>
+		<Trans_Date>2024-11-06</Trans_Date>
+		<A50/>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="101"/>
+		<Reference>0000000075</Reference>
+		<Trans_Date>2025-01-06</Trans_Date>
+		<A50> BD5I AXZ</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="101"/>
+		<Reference>0000000075</Reference>
+		<Trans_Date>2025-01-07</Trans_Date>
+		<A50>BD5I AXZ</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="101"/>
+		<Reference>0000000075</Reference>
+		<Trans_Date>2025-01-08</Trans_Date>
+		<A50>BD5I AXZ</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="101"/>
+		<Reference>0000000075</Reference>
+		<Trans_Date>2025-01-09</Trans_Date>
+		<A50>BD5I AXZ</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="101"/>
+		<Reference>0000000075</Reference>
+		<Trans_Date>2025-01-10</Trans_Date>
+		<A50>BD5I AXZ</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="101"/>
+		<Reference>0000000075</Reference>
+		<Trans_Date>2025-01-12</Trans_Date>
+		<A50>BD5I AXZ</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000086</Reference>
+		<Trans_Date>2025-01-06</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000086</Reference>
+		<Trans_Date>2025-01-07</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000086</Reference>
+		<Trans_Date>2025-01-08</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000086</Reference>
+		<Trans_Date>2025-01-09</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000086</Reference>
+		<Trans_Date>2025-01-10</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000086</Reference>
+		<Trans_Date>2025-01-11</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000086</Reference>
+		<Trans_Date>2025-01-12</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000086</Reference>
+		<Trans_Date>2025-01-13</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000086</Reference>
+		<Trans_Date>2025-01-14</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000086</Reference>
+		<Trans_Date>2025-01-15</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000086</Reference>
+		<Trans_Date>2025-01-16</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000086</Reference>
+		<Trans_Date>2025-01-17</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000086</Reference>
+		<Trans_Date>2025-01-18</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000086</Reference>
+		<Trans_Date>2025-01-19</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000086</Reference>
+		<Trans_Date>2025-01-20</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000086</Reference>
+		<Trans_Date>2025-01-21</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000086</Reference>
+		<Trans_Date>2025-01-22</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000086</Reference>
+		<Trans_Date>2025-01-23</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000086</Reference>
+		<Trans_Date>2025-01-24</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000086</Reference>
+		<Trans_Date>2025-01-25</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000086</Reference>
+		<Trans_Date>2025-01-26</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000086</Reference>
+		<Trans_Date>2025-01-27</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000089</Reference>
+		<Trans_Date>2025-02-03</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000089</Reference>
+		<Trans_Date>2025-02-04</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000089</Reference>
+		<Trans_Date>2025-02-05</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000089</Reference>
+		<Trans_Date>2025-02-06</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000089</Reference>
+		<Trans_Date>2025-02-07</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000089</Reference>
+		<Trans_Date>2025-02-10</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000089</Reference>
+		<Trans_Date>2025-02-11</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000089</Reference>
+		<Trans_Date>2025-02-12</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000089</Reference>
+		<Trans_Date>2025-02-13</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000089</Reference>
+		<Trans_Date>2025-02-14</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000089</Reference>
+		<Trans_Date>2025-02-17</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000089</Reference>
+		<Trans_Date>2025-02-18</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000089</Reference>
+		<Trans_Date>2025-02-19</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000089</Reference>
+		<Trans_Date>2025-02-19</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000089</Reference>
+		<Trans_Date>2025-02-20</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000089</Reference>
+		<Trans_Date>2025-02-21</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000089</Reference>
+		<Trans_Date>2025-02-24</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000089</Reference>
+		<Trans_Date>2025-02-24</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000089</Reference>
+		<Trans_Date>2025-02-25</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000089</Reference>
+		<Trans_Date>2025-02-26</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000089</Reference>
+		<Trans_Date>2025-02-27</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000089</Reference>
+		<Trans_Date>2025-02-28</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000095</Reference>
+		<Trans_Date>2025-03-02</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000095</Reference>
+		<Trans_Date>2025-03-03</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000095</Reference>
+		<Trans_Date>2025-03-04</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000095</Reference>
+		<Trans_Date>2025-03-05</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000095</Reference>
+		<Trans_Date>2025-03-06</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000095</Reference>
+		<Trans_Date>2025-03-07</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000095</Reference>
+		<Trans_Date>2025-03-08</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000095</Reference>
+		<Trans_Date>2025-03-09</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000095</Reference>
+		<Trans_Date>2025-03-10</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000095</Reference>
+		<Trans_Date>2025-03-11</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000095</Reference>
+		<Trans_Date>2025-03-12</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000095</Reference>
+		<Trans_Date>2025-03-13</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000095</Reference>
+		<Trans_Date>2025-03-14</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000095</Reference>
+		<Trans_Date>2025-03-15</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000095</Reference>
+		<Trans_Date>2025-03-16</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000095</Reference>
+		<Trans_Date>2025-03-17</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000095</Reference>
+		<Trans_Date>2025-03-18</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000095</Reference>
+		<Trans_Date>2025-03-19</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000095</Reference>
+		<Trans_Date>2025-03-20</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000095</Reference>
+		<Trans_Date>2025-03-21</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000095</Reference>
+		<Trans_Date>2025-03-22</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="110"/>
+		<Reference>0000000095</Reference>
+		<Trans_Date>2025-03-23</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-03</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-03</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-04</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-04</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-05</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-06</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-06</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-07</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-10</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-11</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-12</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-13</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-14</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-14</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-17</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-18</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-19</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-19</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-20</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-20</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-21</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-21</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-24</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-24</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-25</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-26</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-27</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-28</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000176</Reference>
+		<Trans_Date>2025-02-28</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000174</Reference>
+		<Trans_Date>2025-04-01</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000174</Reference>
+		<Trans_Date>2025-04-02</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000174</Reference>
+		<Trans_Date>2025-04-03</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000174</Reference>
+		<Trans_Date>2025-04-04</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000174</Reference>
+		<Trans_Date>2025-04-05</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000174</Reference>
+		<Trans_Date>2025-04-06</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000174</Reference>
+		<Trans_Date>2025-04-07</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000174</Reference>
+		<Trans_Date>2025-04-08</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000174</Reference>
+		<Trans_Date>2025-04-09</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000174</Reference>
+		<Trans_Date>2025-04-10</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000174</Reference>
+		<Trans_Date>2025-04-11</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000174</Reference>
+		<Trans_Date>2025-04-12</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000174</Reference>
+		<Trans_Date>2025-04-13</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000174</Reference>
+		<Trans_Date>2025-04-14</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000174</Reference>
+		<Trans_Date>2025-04-15</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000174</Reference>
+		<Trans_Date>2025-04-16</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000174</Reference>
+		<Trans_Date>2025-04-17</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000174</Reference>
+		<Trans_Date>2025-04-18</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000174</Reference>
+		<Trans_Date>2025-04-19</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000174</Reference>
+		<Trans_Date>2025-04-20</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000174</Reference>
+		<Trans_Date>2025-04-21</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="401"/>
+		<Reference>0000000174</Reference>
+		<Trans_Date>2025-04-22</Trans_Date>
+		<A50>JY7U SJY</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000059</Reference>
+		<Trans_Date>2025-02-03</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000049</Reference>
+		<Trans_Date>2025-02-03</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000049</Reference>
+		<Trans_Date>2025-02-04</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000059</Reference>
+		<Trans_Date>2025-02-04</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000059</Reference>
+		<Trans_Date>2025-02-05</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000049</Reference>
+		<Trans_Date>2025-02-05</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000049</Reference>
+		<Trans_Date>2025-02-06</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000059</Reference>
+		<Trans_Date>2025-02-06</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000059</Reference>
+		<Trans_Date>2025-02-07</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000049</Reference>
+		<Trans_Date>2025-02-07</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000049</Reference>
+		<Trans_Date>2025-02-10</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000059</Reference>
+		<Trans_Date>2025-02-10</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000059</Reference>
+		<Trans_Date>2025-02-11</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000049</Reference>
+		<Trans_Date>2025-02-11</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000049</Reference>
+		<Trans_Date>2025-02-12</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000059</Reference>
+		<Trans_Date>2025-02-12</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000059</Reference>
+		<Trans_Date>2025-02-13</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000049</Reference>
+		<Trans_Date>2025-02-13</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000049</Reference>
+		<Trans_Date>2025-02-14</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000059</Reference>
+		<Trans_Date>2025-02-14</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000059</Reference>
+		<Trans_Date>2025-02-17</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000049</Reference>
+		<Trans_Date>2025-02-17</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000049</Reference>
+		<Trans_Date>2025-02-18</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000059</Reference>
+		<Trans_Date>2025-02-18</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000059</Reference>
+		<Trans_Date>2025-02-19</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000059</Reference>
+		<Trans_Date>2025-02-19</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000049</Reference>
+		<Trans_Date>2025-02-19</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000049</Reference>
+		<Trans_Date>2025-02-19</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000049</Reference>
+		<Trans_Date>2025-02-20</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000059</Reference>
+		<Trans_Date>2025-02-20</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000059</Reference>
+		<Trans_Date>2025-02-21</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000049</Reference>
+		<Trans_Date>2025-02-21</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000059</Reference>
+		<Trans_Date>2025-02-23</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000049</Reference>
+		<Trans_Date>2025-02-24</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000049</Reference>
+		<Trans_Date>2025-02-24</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000059</Reference>
+		<Trans_Date>2025-02-24</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000059</Reference>
+		<Trans_Date>2025-02-24</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000059</Reference>
+		<Trans_Date>2025-02-25</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000049</Reference>
+		<Trans_Date>2025-02-25</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000049</Reference>
+		<Trans_Date>2025-02-26</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000059</Reference>
+		<Trans_Date>2025-02-26</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000059</Reference>
+		<Trans_Date>2025-02-27</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000049</Reference>
+		<Trans_Date>2025-02-27</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000049</Reference>
+		<Trans_Date>2025-02-28</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+	<PROJECT_LEDGER_LINE>
+		<Employee VALUE="Admin 2"/>
+		<Reference>0000000118</Reference>
+		<Trans_Date>2025-05-23</Trans_Date>
+		<A50>BD5I SMR</A50>
+		<ExportSequence/>
+		<ExportSequenceNo>0</ExportSequenceNo>
+	</PROJECT_LEDGER_LINE>
+</TIMEATWORK>

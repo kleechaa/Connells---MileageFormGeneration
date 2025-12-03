@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TIMEATWORK server="vs-sql-connels.database.windows.net" database="eaw_connells">
+  <PROJECT_LEDGER_LINE>
+    <Employee VALUE="ZZZ-003"></Employee>
+    <Reference>0000000361</Reference>
+    <Trans_Date>2025-08-01</Trans_Date>
+    <A01>test &amp;</A01>
+    <A50>0V64 CME</A50>
+    <ExportSequence></ExportSequence>
+    <ExportSequenceNo>0</ExportSequenceNo>
+  </PROJECT_LEDGER_LINE>
+  <PROJECT_LEDGER_LINE>
+    <Employee VALUE="ZZZ-003"></Employee>
+    <Reference>0000000361</Reference>
+    <Trans_Date>2025-08-03</Trans_Date>
+    <A01>test &amp;</A01>
+    <A50>0V64 CME</A50>
+    <ExportSequence></ExportSequence>
+    <ExportSequenceNo>0</ExportSequenceNo>
+  </PROJECT_LEDGER_LINE>
+  <PROJECT_LEDGER_LINE>
+    <Employee VALUE="ZZZ-003"></Employee>
+    <Reference>0000000361</Reference>
+    <Trans_Date>2025-08-04</Trans_Date>
+    <A01>test &amp;</A01>
+    <A50>0V64 CME</A50>
+    <ExportSequence></ExportSequence>
+    <ExportSequenceNo>0</ExportSequenceNo>
+  </PROJECT_LEDGER_LINE>
+  <PROJECT_LEDGER_LINE>
+    <Employee VALUE="ZZZ-003"></Employee>
+    <Reference>0000000361</Reference>
+    <Trans_Date>2025-08-05</Trans_Date>
+    <A01>test &amp;</A01>
+    <A50>0V64 CME</A50>
+    <ExportSequence></ExportSequence>
+    <ExportSequenceNo>0</ExportSequenceNo>
+  </PROJECT_LEDGER_LINE>
+  <PROJECT_LEDGER_LINE>
+    <Employee VALUE="ZZZ-003"></Employee>
+    <Reference>0000000361</Reference>
+    <Trans_Date>2025-08-06</Trans_Date>
+    <A01>test &amp;</A01>
+    <A50>0V64 CME</A50>
+    <ExportSequence></ExportSequence>
+    <ExportSequenceNo>0</ExportSequenceNo>
+  </PROJECT_LEDGER_LINE>
+  <PROJECT_LEDGER_LINE>
+    <Employee VALUE="ZZZ-003"></Employee>
+    <Reference>0000000361</Reference>
+    <Trans_Date>2025-08-07</Trans_Date>
+    <A01>test &amp;</A01>
+    <A50>0V64 CME</A50>
+    <ExportSequence></ExportSequence>
+    <ExportSequenceNo>0</ExportSequenceNo>
+  </PROJECT_LEDGER_LINE>
+  <PROJECT_LEDGER_LINE>
+    <Employee VALUE="ZZZ-003"></Employee>
+    <Reference>0000000361</Reference>
+    <Trans_Date>2025-08-08</Trans_Date>
+    <A01>test &amp;</A01>
+    <A50>0V64 CME</A50>
+    <ExportSequence></ExportSequence>
+    <ExportSequenceNo>0</ExportSequenceNo>
+  </PROJECT_LEDGER_LINE>
+  <PROJECT_LEDGER_LINE>
+    <Employee VALUE="ZZZ-003"></Employee>
+    <Reference>0000000361</Reference>
+    <Trans_Date>2025-08-10</Trans_Date>
+    <A01>test &amp;</A01>
+    <A50>0V64 CME</A50>
+    <ExportSequence></ExportSequence>
+    <ExportSequenceNo>0</ExportSequenceNo>
+  </PROJECT_LEDGER_LINE>
+  <PROJECT_LEDGER_LINE>
+    <Employee VALUE="ZZZ-003"></Employee>
+    <Reference>0000000361</Reference>
+    <Trans_Date>2025-08-11</Trans_Date>
+    <A01>test &amp;</A01>
+    <A50>0V64 CME</A50>
+    <ExportSequence></ExportSequence>
+    <ExportSequenceNo>0</ExportSequenceNo>
+  </PROJECT_LEDGER_LINE>
+  <PROJECT_LEDGER_LINE>
+    <Employee VALUE="ZZZ-003"></Employee>
+    <Reference>0000000361</Reference>
+    <Trans_Date>2025-08-12</Trans_Date>
+    <A01>test &amp;</A01>
+    <A50>0V64 CME</A50>
+    <ExportSequence></ExportSequence>
+    <ExportSequenceNo>0</ExportSequenceNo>
+  </PROJECT_LEDGER_LINE>
+  <PROJECT_LEDGER_LINE>
+    <Employee VALUE="ZZZ-003"></Employee>
+    <Reference>0000000361</Reference>
+    <Trans_Date>2025-08-13</Trans_Date>
+    <A01>test &amp;</A01>
+    <A50>0V64 CME</A50>
+    <ExportSequence></ExportSequence>
+    <ExportSequenceNo>0</ExportSequenceNo>
+  </PROJECT_LEDGER_LINE>
+  <PROJECT_LEDGER_LINE>
+    <Employee VALUE="ZZZ-003"></Employee>
+    <Reference>0000000361</Reference>
+    <Trans_Date>2025-08-14</Trans_Date>
+    <A01>test &amp;</A01>
+    <A50>0V64 CME</A50>
+    <ExportSequence></ExportSequence>
+    <ExportSequenceNo>0</ExportSequenceNo>
+  </PROJECT_LEDGER_LINE>
+  <PROJECT_LEDGER_LINE>
+    <Employee VALUE="ZZZ-003"></Employee>
+    <Reference>0000000361</Reference>
+    <Trans_Date>2025-08-15</Trans_Date>
+    <A01>test &amp;</A01>
+    <A50>0V64 CME</A50>
+    <ExportSequence></ExportSequence>
+    <ExportSequenceNo>0</ExportSequenceNo>
+  </PROJECT_LEDGER_LINE>
+  <PROJECT_LEDGER_LINE>
+    <Employee VALUE="ZZZ-003"></Employee>
+    <Reference>0000000361</Reference>
+    <Trans_Date>2025-08-17</Trans_Date>
+    <A01>test &amp;</A01>
+    <A50>0V64 CME</A50>
+    <ExportSequence></ExportSequence>
+    <ExportSequenceNo>0</ExportSequenceNo>
+  </PROJECT_LEDGER_LINE>
+  <PROJECT_LEDGER_LINE>
+    <Employee VALUE="ZZZ-003"></Employee>
+    <Reference>0000000361</Reference>
+    <Trans_Date>2025-08-26</Trans_Date>
+    <A01>test &amp;</A01>
+    <A50>0V64 CME</A50>
+    <ExportSequence></ExportSequence>
+    <ExportSequenceNo>0</ExportSequenceNo>
+  </PROJECT_LEDGER_LINE>
+  <PROJECT_LEDGER_LINE>
+    <Employee VALUE="ZZZ-003"></Employee>
+    <Reference>0000000361</Reference>
+    <Trans_Date>2025-08-26</Trans_Date>
+    <A01>test &amp;</A01>
+    <A50>0V64 CME</A50>
+    <ExportSequence></ExportSequence>
+    <ExportSequenceNo>0</ExportSequenceNo>
+  </PROJECT_LEDGER_LINE>
+  <PROJECT_LEDGER_LINE>
+    <Employee VALUE="ZZZ-003"></Employee>
+    <Reference>0000000361</Reference>
+    <Trans_Date>2025-08-27</Trans_Date>
+    <A01>test &amp;</A01>
+    <A50>0V64 CME</A50>
+    <ExportSequence></ExportSequence>
+    <ExportSequenceNo>0</ExportSequenceNo>
+  </PROJECT_LEDGER_LINE>
+  <PROJECT_LEDGER_LINE>
+    <Employee VALUE="ZZZ-003"></Employee>
+    <Reference>0000000361</Reference>
+    <Trans_Date>2025-08-27</Trans_Date>
+    <A01>test &amp;</A01>
+    <A50>0V64 CME</A50>
+    <ExportSequence></ExportSequence>
+    <ExportSequenceNo>0</ExportSequenceNo>
+  </PROJECT_LEDGER_LINE>
+  <PROJECT_LEDGER_LINE>
+    <Employee VALUE="ZZZ-003"></Employee>
+    <Reference>0000000361</Reference>
+    <Trans_Date>2025-08-28</Trans_Date>
+    <A01>test &amp;</A01>
+    <A50>0V64 CME</A50>
+    <ExportSequence></ExportSequence>
+    <ExportSequenceNo>0</ExportSequenceNo>
+  </PROJECT_LEDGER_LINE>
+  <PROJECT_LEDGER_LINE>
+    <Employee VALUE="ZZZ-003"></Employee>
+    <Reference>0000000361</Reference>
+    <Trans_Date>2025-08-28</Trans_Date>
+    <A01>test &amp;</A01>
+    <A50>0V64 CME</A50>
+    <ExportSequence></ExportSequence>
+    <ExportSequenceNo>0</ExportSequenceNo>
+  </PROJECT_LEDGER_LINE>
+  <PROJECT_LEDGER_LINE>
+    <Employee VALUE="ZZZ-003"></Employee>
+    <Reference>0000000361</Reference>
+    <Trans_Date>2025-08-29</Trans_Date>
+    <A01>test &amp;</A01>
+    <A50>0V64 CME</A50>
+    <ExportSequence></ExportSequence>
+    <ExportSequenceNo>0</ExportSequenceNo>
+  </PROJECT_LEDGER_LINE>
+</TIMEATWORK>

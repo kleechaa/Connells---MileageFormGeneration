@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Ledger>
+<Line>
+<Employee>101</Employee>
+<LastDate>06/11/2024</LastDate>
+<A50></A50>
+<Reference>0000000004</Reference>
+</Line>
+<Line>
+<Employee>101</Employee>
+<LastDate>17/10/2024</LastDate>
+<A50></A50>
+<Reference>0000000016</Reference>
+</Line>
+<Line>
+<Employee>101</Employee>
+<LastDate>06/01/2025</LastDate>
+<A50> BD5I AXZ</A50>
+<Reference>0000000075</Reference>
+</Line>
+<Line>
+<Employee>101</Employee>
+<LastDate>12/01/2025</LastDate>
+<A50>BD5I AXZ</A50>
+<Reference>0000000075</Reference>
+</Line>
+<Line>
+<Employee>110</Employee>
+<LastDate>27/01/2025</LastDate>
+<A50>BD5I SMR</A50>
+<Reference>0000000086</Reference>
+</Line>
+<Line>
+<Employee>110</Employee>
+<LastDate>28/02/2025</LastDate>
+<A50>BD5I SMR</A50>
+<Reference>0000000089</Reference>
+</Line>
+<Line>
+<Employee>110</Employee>
+<LastDate>23/03/2025</LastDate>
+<A50>BD5I SMR</A50>
+<Reference>0000000095</Reference>
+</Line>
+<Line>
+<Employee>401</Employee>
+<LastDate>22/04/2025</LastDate>
+<A50>JY7U SJY</A50>
+<Reference>0000000174</Reference>
+</Line>
+<Line>
+<Employee>401</Employee>
+<LastDate>28/02/2025</LastDate>
+<A50>JY7U SJY</A50>
+<Reference>0000000176</Reference>
+</Line>
+<Line>
+<Employee>Admin 2</Employee>
+<LastDate>28/02/2025</LastDate>
+<A50>BD5I SMR</A50>
+<Reference>0000000049</Reference>
+</Line>
+<Line>
+<Employee>Admin 2</Employee>
+<LastDate>27/02/2025</LastDate>
+<A50>BD5I SMR</A50>
+<Reference>0000000059</Reference>
+</Line>
+<Line>
+<Employee>Admin 2</Employee>
+<LastDate>23/05/2025</LastDate>
+<A50>BD5I SMR</A50>
+<Reference>0000000118</Reference>
+</Line>
+</Ledger>
